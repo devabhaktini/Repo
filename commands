@@ -1,0 +1,41 @@
+Touch, Cat, Vi
+===============
+
+Touch
+======
+touch file1
+
+touch file2 file3
+
+
+Cat
+===
+cat > file4
+...
+...
+
+ctrl+d
+
+
+cat file4
+
+
+cat >> file4
+...
+...
+ctrl+d
+
+=======
+
+vi file5
+=========
+esc i
+.....
+.....
+.....
+
+esc :w!
+esc :q!
+or
+esc :wq!
+
